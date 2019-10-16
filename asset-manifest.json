@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Salvat0r/qvintoV2/static/js/main.105d9f57.chunk.js",
+    "main.js.map": "/Salvat0r/qvintoV2/static/js/main.105d9f57.chunk.js.map",
+    "runtime-main.js": "/Salvat0r/qvintoV2/static/js/runtime-main.a7209efa.js",
+    "runtime-main.js.map": "/Salvat0r/qvintoV2/static/js/runtime-main.a7209efa.js.map",
+    "static/js/2.c4120e5c.chunk.js": "/Salvat0r/qvintoV2/static/js/2.c4120e5c.chunk.js",
+    "static/js/2.c4120e5c.chunk.js.map": "/Salvat0r/qvintoV2/static/js/2.c4120e5c.chunk.js.map",
+    "index.html": "/Salvat0r/qvintoV2/index.html",
+    "precache-manifest.06e58f82a86a4f03118b1998301787a6.js": "/Salvat0r/qvintoV2/precache-manifest.06e58f82a86a4f03118b1998301787a6.js",
+    "service-worker.js": "/Salvat0r/qvintoV2/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7209efa.js",
+    "static/js/2.c4120e5c.chunk.js",
+    "static/js/main.105d9f57.chunk.js"
+  ]
+}
